@@ -11,4 +11,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Run bot
-CMD ["python", "mediabot.py"]
+CMD ["python", "bot.py"]
